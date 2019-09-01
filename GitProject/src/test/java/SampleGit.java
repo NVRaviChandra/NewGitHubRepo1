@@ -6,6 +6,7 @@ public class SampleGit {
 //This is my first comment
 	//This is my second comment
 	//This is my third comment for commit and push
+		//This is from my team member
 	}
 
 }
